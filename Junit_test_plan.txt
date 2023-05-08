@@ -1,0 +1,17 @@
+To test the methods that are returning the Boolean values after 
+completion we call the method in the test function and store it's 
+return values value to the expected true or false and used assertTrue 
+and assertFalse.
+
+To test void methods giving output to the terminal we take the output
+of the file in the output stream and match it with the expected output
+ after copying it from the function itself
+
+Similarly for testing the string returning methods we chech the return 
+of the method with the expected using the assertEquals
+
+I have created CommonTestClass to help insert sample data and test CLI using
+redirecting System.in from string and storing System.out to a file. 
+
+I have also created Log file that logs almost all changes to database to a file 
+and read that file for testing.

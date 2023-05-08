@@ -1,0 +1,39 @@
+
+**** Login ****
+L	: Login
+E	: Exit
+Input: 
+Email: Password: Logged in as academic office!
+
+**** Academic Office ****
+CC	: view/edit Course catalogue
+AC	: view/edit Academic Calendar
+AS	: Add Students
+AI	: Add Instructors
+SG	: view Student Grade
+ST	: generate Student Transcript
+GC	: Student graduation check
+CP	: Change Password
+E	: Exit
+Input: 
+Old Password: New Password: Password changed
+
+**** Academic Office ****
+CC	: view/edit Course catalogue
+AC	: view/edit Academic Calendar
+AS	: Add Students
+AI	: Add Instructors
+SG	: view Student Grade
+ST	: generate Student Transcript
+GC	: Student graduation check
+CP	: Change Password
+E	: Exit
+Input: 
+Exit
+Logged out
+
+**** Login ****
+L	: Login
+E	: Exit
+Input: 
+Exit
